@@ -1,0 +1,3 @@
+[DEBUG] 2021-01-07 09:51:26.750 [Tests_AddProduct] FAILED - Test_AddProductThatDoesntExist | Reason: Received Product Added Message!
+[INFO ] 2021-01-07 09:51:40.128 [Tests_AddProduct] PASSED - Test_AddProduct
+[DEBUG] 2021-01-07 09:53:10.026 [Tests_CartPage] FAILED - Test_PlaceEmptyOrder | Reason: No alert for / Placed: Empty Order (Expected Alert Not Present)
